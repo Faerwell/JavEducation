@@ -1,4 +1,4 @@
-package lesson2.cat;
+package lesson2;
 
 public interface Animal {
     public void greeting();
